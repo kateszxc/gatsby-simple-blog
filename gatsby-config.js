@@ -5,7 +5,7 @@ const {
   author,
   description,
   siteUrl,
-  twitter = '',
+  twitter = 'HelloNicole01',
   github = '',
   medium = '',
   facebook = '',
@@ -92,7 +92,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Thinking Opposites`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
